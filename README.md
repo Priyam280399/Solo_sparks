@@ -164,6 +164,11 @@ AuthContext uses token to fetch user details and maintain login state.
 
 Protected routes redirect unauthenticated users to /login.
 
+Login ID && Password
+"email": "priyam1@example.com",
+"password": "123456"
+
+
 
 Features
 ✅ Register/Login
